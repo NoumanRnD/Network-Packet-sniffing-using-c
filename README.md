@@ -1,6 +1,6 @@
 # Network-Packet-sniffing-using-c
 analyzing a packet trace that contains Ethernet and IP packet headers as observed on an operational network.
-USE UBANTU LINUX OS is requirement and internet also<br/>
+# USE UBANTU LINUX OS is requirement and internet also<br/>
 step 1 :- goto source code compiled folder and see there are source code files<br/>
 step 2 :- there is a file main.c<br/>
 step 3 :- using linux open terminal window here and type command<br/>
@@ -35,3 +35,5 @@ DATA Dump<br/>
 IP Header<br/>
 TCP Header<br/>
 Data Payload<br/>
+
+# Read Project file for more details the code is in c
